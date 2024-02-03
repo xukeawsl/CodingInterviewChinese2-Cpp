@@ -123,3 +123,17 @@
 [面试题 60：n 个骰子的点数](https://github.com/xukeawsl/CodingInterviewChinese2-Cpp/blob/master/Solutions/%E9%9D%A2%E8%AF%95%E9%A2%98%2060%EF%BC%9An%20%E4%B8%AA%E9%AA%B0%E5%AD%90%E7%9A%84%E7%82%B9%E6%95%B0.md)
 
 [面试题 61：扑克牌中的顺子](https://github.com/xukeawsl/CodingInterviewChinese2-Cpp/blob/master/Solutions/%E9%9D%A2%E8%AF%95%E9%A2%98%2061%EF%BC%9A%E6%89%91%E5%85%8B%E7%89%8C%E4%B8%AD%E7%9A%84%E9%A1%BA%E5%AD%90.md)
+
+[面试题 62：圆圈中最后剩下的数字](https://github.com/xukeawsl/CodingInterviewChinese2-Cpp/blob/master/Solutions/%E9%9D%A2%E8%AF%95%E9%A2%98%2062%EF%BC%9A%E5%9C%86%E5%9C%88%E4%B8%AD%E6%9C%80%E5%90%8E%E5%89%A9%E4%B8%8B%E7%9A%84%E6%95%B0%E5%AD%97.md)
+
+[面试题 63：股票的最大利润](https://github.com/xukeawsl/CodingInterviewChinese2-Cpp/blob/master/Solutions/%E9%9D%A2%E8%AF%95%E9%A2%98%2063%EF%BC%9A%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E5%A4%A7%E5%88%A9%E6%B6%A6.md)
+
+[面试题 65：不用加减乘除做加法](https://github.com/xukeawsl/CodingInterviewChinese2-Cpp/blob/master/Solutions/%E9%9D%A2%E8%AF%95%E9%A2%98%2065%EF%BC%9A%E4%B8%8D%E7%94%A8%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%81%9A%E5%8A%A0%E6%B3%95.md)
+
+[面试题 64：求 1+2+...+n](https://github.com/xukeawsl/CodingInterviewChinese2-Cpp/blob/master/Solutions/%E9%9D%A2%E8%AF%95%E9%A2%98%2064%EF%BC%9A%E6%B1%82%201%2B2%2B...%2Bn.md)
+
+[面试题 66：构建乘积数组](https://github.com/xukeawsl/CodingInterviewChinese2-Cpp/blob/master/Solutions/%E9%9D%A2%E8%AF%95%E9%A2%98%2066%EF%BC%9A%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84.md)
+
+[面试题 67：把字符串转换成整数](https://github.com/xukeawsl/CodingInterviewChinese2-Cpp/blob/master/Solutions/%E9%9D%A2%E8%AF%95%E9%A2%98%2067%EF%BC%9A%E6%8A%8A%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%88%90%E6%95%B4%E6%95%B0.md)
+
+[面试题 68：树中两个节点的最低公共祖先](https://github.com/xukeawsl/CodingInterviewChinese2-Cpp/blob/master/Solutions/%E9%9D%A2%E8%AF%95%E9%A2%98%2068%EF%BC%9A%E6%A0%91%E4%B8%AD%E4%B8%A4%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E6%9C%80%E4%BD%8E%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md)
